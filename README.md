@@ -8,9 +8,9 @@
 Vous pouvez le faire en faisant le raccourci clavier **Windows+x** puis **a** ou **c**.
 1. cloner le repertoire de **pyvirt** en executant la commande suivante dans l'invite de commande :
 ```bash
-git clone https://github.com/Mr-KAM/pyvirt.git && cd pyvirt && app.bat
+git clone https://github.com/Mr-KAM/pyvirt.git && cd "pyvirt"
 ```
-
+puis:  `app.bat`
 # Utilisation
 Dans votre répertoire de travail, executer la commande:
 
