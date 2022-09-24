@@ -19,3 +19,4 @@ Dans votre répertoire de travail, executer la commande:
 - `activ` : Pour activer l'environnement virtuel,
 - `dsc` : Pour desactiver l'environnement virtuel.
 - `vactiv` : Pour creer et activer un environnement virtuel,
+- `vfreeze` : Pour creer le fichier des requirements.txt des modules de dependances,
