@@ -15,8 +15,9 @@ git clone https://github.com/Mr-KAM/pyvirt.git && cd "pyvirt" && app.bat
 # Utilisation
 Dans votre répertoire de travail, executer la commande:
 
-- `pyvirt` : Pour creer un environnement virtuel,
+- ```bash pyvirt``` : Pour creer un environnement virtuel,
 - `activ` : Pour activer l'environnement virtuel,
 - `dsc` : Pour desactiver l'environnement virtuel.
 - `vactiv` : Pour creer et activer un environnement virtuel,
 - `vfreeze` : Pour creer le fichier des requirements.txt des modules de dependances,
+- `vdfreeze` : Pour installer les dépendances de modules presents dans requirements.txt.
