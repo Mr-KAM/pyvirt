@@ -13,7 +13,8 @@ git clone https://github.com/Mr-KAM/pyvirt.git && cd "pyvirt" && app.bat
 ```
 
 # Utilisation
-Dans votre répertoire de travail, executer la commande:
+Dans votre répertoire de travail, executez,
+
 Pour creer un environnement virtuel:
 ```bash 
 pyvirt
