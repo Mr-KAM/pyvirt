@@ -1,1 +1,1 @@
-virtualenv venv
+virtualenv venv && cls
