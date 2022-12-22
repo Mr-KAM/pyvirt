@@ -1,1 +1,1 @@
-virtualenv venv && venv\Scripts\activate
+virtualenv venv && venv\Scripts\activate && cls
