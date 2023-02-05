@@ -33,7 +33,7 @@ vactiv
 ``` 
 pour creer un fichier "requirements.txt" des packages de dependances :
 ```bash 
-vfreeze
+vfreeze ou vreq
 ``` 
 pour installer les dépendances de packages presents dans "requirements.txt" :
 ```bash 
